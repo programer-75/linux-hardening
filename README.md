@@ -41,7 +41,7 @@
 ## نصب و اجرا
 
 ```bash
-git clone https://github.com/yourname/linux-hardening.git
+git clone https://github.com/programer-75/linux-hardening.git
 cd linux-hardening
 chmod +x harden.sh
 sudo ./harden.sh
